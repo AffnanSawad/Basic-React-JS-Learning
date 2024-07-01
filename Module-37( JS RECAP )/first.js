@@ -142,3 +142,86 @@ console.log(brands);
 const series1 = mobile['series']
 
 console.log(series1);
+
+
+// JSON, Fetch, Keys, Values, Array Add Or Remove Using Dots
+
+const mobile_1 = {
+
+    brand: 'Apple',
+    series: '11 pro-max',
+
+    64 : 'ram',
+    price : 1200
+}
+
+
+// json => stringify
+
+const stringified = JSON.stringify(mobile_1);
+console.log(stringified);
+
+
+//parse 
+const parsy = JSON.parse(stringified);
+console.log(parsy);
+
+//properties
+const prop = Object.keys(mobile_1);
+console.log(prop);
+
+//values
+const values = Object.values(mobile_1);
+console.log(values);
+
+// fetching
+
+const fetching = async() => {
+
+    const res = await fetching ('url');
+
+    const data = await res.JSON();
+
+    console.log(data)
+}
+
+// add array 
+
+const arrays = [10,12,13,14]
+
+const new1 = 15
+
+const new_array = [...arrays, new1];
+
+console.log(new_array);
+
+console.log(arrays);
+
+
+// TRUTHY , FALSY
+
+// let  math = 80 ;
+// let science = '';
+
+// if(math){
+//     return 'truthy'
+// }
+
+// if(!science){
+//     return 'truthy'
+// }
+// else{
+//     return 'falsy'
+// }
+
+//ternary
+
+let bangla = 80 ;
+
+let english = 60 ;
+
+//Ternary operator
+const ternary_op = ( bangla >= 80 && english >= 80  ) ? 'Golden A+' : 'Paassd';
+
+console.log(ternary_op);
+
