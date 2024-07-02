@@ -130,4 +130,4 @@ const users = [
 // Key Points
 // Unique Key: Each item in the list should have a unique key prop to help React identify which items have changed, are added, or are removed.
 // Reusable Component: The User component is reused for each user in the users array.
-// Efficiency: Using map makes it easy to transform an array of data into an array of components efficiently.
+// Efficiency: Using map makes it easy to transform an array of data into an array of components efficiently....
