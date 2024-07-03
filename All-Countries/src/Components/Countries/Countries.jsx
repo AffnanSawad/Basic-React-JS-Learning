@@ -81,8 +81,8 @@ const Countries = () => {
      </div>
        
    <div className="displaying">
-
-
+  
+   {/* map */}
    {
         countries.map(country =><Country
         key={country.id}
