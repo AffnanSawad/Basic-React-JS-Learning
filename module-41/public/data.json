@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Bottle A",
+        "volume_ml": 500,
+        "material": "Plastic",
+        "color": "Blue",
+        "price_usd": 3.99,
+        "image_url": "http://example.com/images/bottle_a.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bottle B",
+        "volume_ml": 750,
+        "material": "Glass",
+        "color": "Clear",
+        "price_usd": 7.99,
+        "image_url": "http://example.com/images/bottle_b.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bottle C",
+        "volume_ml": 1000,
+        "material": "Stainless Steel",
+        "color": "Silver",
+        "price_usd": 12.99,
+        "image_url": "http://example.com/images/bottle_c.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bottle D",
+        "volume_ml": 600,
+        "material": "Aluminum",
+        "color": "Red",
+        "price_usd": 9.99,
+        "image_url": "http://example.com/images/bottle_d.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bottle E",
+        "volume_ml": 300,
+        "material": "Plastic",
+        "color": "Green",
+        "price_usd": 2.99,
+        "image_url": "http://example.com/images/bottle_e.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bottle F",
+        "volume_ml": 800,
+        "material": "Titanium",
+        "color": "Black",
+        "price_usd": 15.99,
+        "image_url": "http://example.com/images/bottle_f.jpg"
+    }
+]

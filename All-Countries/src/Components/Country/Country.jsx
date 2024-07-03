@@ -26,7 +26,7 @@ const Country = ({country,handleshowvisit,handleflags}) => {
  
 
     return (
-        <div  className={ visited ? 'visit' : 'no' } style={teamStyle  }>
+        <div  className={ visited ? 'visit' : 'no' } style={teamStyle}>
             
             
              <img src={flags?.png} alt="" />
