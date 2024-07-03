@@ -1,0 +1,57 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "published_year": 1925,
+      "ISBN": "9780743273565",
+      "summary": "A novel about the American dream and the roaring twenties.",
+      "pages": 180
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "published_year": 2011,
+      "ISBN": "9780062316097",
+      "summary": "Explores the history and impact of Homo sapiens.",
+      "pages": 443
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "published_year": 1965,
+      "ISBN": "9780441013593",
+      "summary": "A story set in a distant future amidst a huge interstellar empire.",
+      "pages": 412
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "published_year": 1997,
+      "ISBN": "9780590353427",
+      "summary": "A young boy discovers he is a wizard and attends a magical school.",
+      "pages": 309
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "genre": "Biography",
+      "published_year": 1947,
+      "ISBN": "9780553296983",
+      "summary": "The diary of Anne Frank during her time hiding from the Nazis.",
+      "pages": 283
+    },
+    {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "genre": "Self-Help",
+      "published_year": 2012,
+      "ISBN": "9781400069286",
+      "summary": "Explores the science behind why habits exist and how they can be changed.",
+      "pages": 371
+    }
+  ]
+  
