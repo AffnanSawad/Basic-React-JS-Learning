@@ -3,7 +3,7 @@ import { useState } from "react";
 import Blog from "../Blog/Blog";
 
 
-const Blogs = ({handleBookMarks,handleReadingTime}) => {
+const Blogs = ({handleBookMarks,handleReadingTime})=>{
 
  
     const [blogs , setblogs] = useState([]);
