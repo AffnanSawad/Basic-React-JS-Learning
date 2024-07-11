@@ -7,5 +7,5 @@ const AppliedJobs = () => {
         </div>
     );
 };
-
+// export
 export default AppliedJobs;
