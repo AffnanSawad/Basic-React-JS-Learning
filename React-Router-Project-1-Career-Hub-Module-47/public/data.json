@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "title": "Software Engineer",
+        "salary": "120000",
+        "description": "Responsible for developing and maintaining software applications.",
+        "type": "Full-time",
+        "company_name": "Tech Solutions Inc.",
+        "image": "https://i.ibb.co/BPMLcvQ/8009596.jpg",
+        "location": "San Francisco, CA"
+    },
+    {
+        "id": "2",
+        "title": "Data Scientist",
+        "salary": "130000",
+        "description": "Analyze large amounts of data to discover trends and patterns.",
+        "type": "Full-time",
+        "company_name": "Data Insights LLC",
+        "image": "https://i.ibb.co/J20FYy0/Transports-Gradient-auto-parts-logo-3.jpg",
+        "location": "New York, NY"
+    },
+    {
+        "id": "3",
+        "title": "Product Manager",
+        "salary": "115000",
+        "description": "Oversee the development and launch of new products.",
+        "type": "Full-time",
+        "company_name": "Innovatech Co.",
+        "image": "https://i.ibb.co/BPMLcvQ/8009596.jpg",
+        "location": "Austin, TX"
+    }
+ 
+]
