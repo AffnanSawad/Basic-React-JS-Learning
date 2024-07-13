@@ -5,7 +5,7 @@ import { FaEyeSlash } from "react-icons/fa";
 import { FaEye } from "react-icons/fa";
 
 
-
+// register actually
 const LogIn = () => {
 
 
