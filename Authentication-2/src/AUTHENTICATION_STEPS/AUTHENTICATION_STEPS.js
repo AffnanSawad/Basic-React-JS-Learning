@@ -52,7 +52,7 @@ STEP : 9 => CREATECONTEXT , USECONTEXT  & ONAUTHSTATECHANDED,PrivateRoute
 
 STEP : 10 => e.target.reset() dile form reset hoye jai.[.then() er mdde dite hbe.]
 
-STEP : 11 => nagigate 
+STEP : 11 => nagigate , loadspinner , google login..
 
 
 
